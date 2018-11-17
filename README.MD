@@ -1,6 +1,6 @@
 # flex-layout
 ```
-pc网站帮助类
+flex布局基类
 ```
 
 ## 技术栈
